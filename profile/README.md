@@ -1,12 +1,12 @@
-## Hi there 👋
+# Interstellar Proxy
 
-<!--
+Interstellar is one of the most popular web proxies with millions of users each month, and a discord server with more than 14 thousand members.
 
-**Here are some ideas to get you started:**
+## Socials 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Interstellar is owned by **@imbubbo** on Discord & Github.
+
+- Our **[Tiktok Account](https://www.tiktok.com/@useinterstellar)**
+- Our **[Discord Server](https://discord.gg/interstellar)**
+- Our **[YouTube Channel](https://www.youtube.com/@unblocking)**
+
