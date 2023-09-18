@@ -4,7 +4,7 @@ Interstellar is one of the most popular web proxies with millions of users each 
 
 ## Socials 
 
-Interstellar is owned by **@imbubbo** on Discord & Github.
+Interstellar is owned by **[@xbubbo](https://github.com/xbubbo)** on Discord & Github.
 
 - Our **[Tiktok Account](https://www.tiktok.com/@useinterstellar)**
 - Our **[Discord Server](https://discord.gg/interstellar)**
